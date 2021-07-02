@@ -1,6 +1,4 @@
 #Garrett Webb
-#gswebb
-#CSE138 Kuper Spring 2021
 
 #acknowledgements
 #https://stackabuse.com/serving-files-with-pythons-simplehttpserver-module/
